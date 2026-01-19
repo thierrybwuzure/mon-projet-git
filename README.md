@@ -88,3 +88,5 @@ Objectif : suivre ton code dès le début.
 Commandes clé : git init, git status, git add, git commit, git log
 
 #Projet pour apprendre l'utilisation de Git, Devoir pour le cours Langage de Balisage (efp)
+
+Ceci est un test sur une branche séparée.
